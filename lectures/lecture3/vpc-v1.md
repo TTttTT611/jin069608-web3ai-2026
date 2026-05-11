@@ -1,6 +1,4 @@
-# VPC v1
-
-![VPC v1](../../assets/vpc-v1.png) ★ 朝起きれない
+# VPC v1 ★ 朝起きれない
 
 ## 顧客の仕事 (Customer Jobs)
 - 授業やバイトに遅刻せず、決まった時間に起きる
